@@ -1,4 +1,4 @@
-package com.ugur.repository.enums;
+package com.furkan.repository.enums;
 
 public enum EMarka {
     AUDI,

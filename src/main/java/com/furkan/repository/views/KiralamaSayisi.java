@@ -1,4 +1,4 @@
-package com.ugur.repository.views;
+package com.furkan.repository.views;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

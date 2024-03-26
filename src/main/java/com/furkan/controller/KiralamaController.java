@@ -1,13 +1,13 @@
-package com.ugur.controller;
+package com.furkan.controller;
 
-import com.ugur.repository.entity.Arac;
-import com.ugur.repository.entity.Kiralama;
-import com.ugur.repository.entity.Kisi;
-import com.ugur.repository.views.KiralamaSayisi;
-import com.ugur.repository.views.KiralananAraclar;
-import com.ugur.service.KiralamaService;
-import com.ugur.utility.Constants;
-import com.ugur.utility.UtilityClass;
+import com.furkan.repository.entity.Arac;
+import com.furkan.repository.entity.Kiralama;
+import com.furkan.repository.entity.Kisi;
+import com.furkan.repository.views.KiralamaSayisi;
+import com.furkan.repository.views.KiralananAraclar;
+import com.furkan.service.KiralamaService;
+import com.furkan.utility.Constants;
+import com.furkan.utility.UtilityClass;
 
 import java.time.LocalDate;
 import java.util.List;

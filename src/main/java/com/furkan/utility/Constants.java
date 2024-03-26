@@ -1,6 +1,6 @@
-package com.ugur.utility;
+package com.furkan.utility;
 
-import com.ugur.repository.entity.BaseEntity;
+import com.furkan.repository.entity.BaseEntity;
 
 public class Constants {
     public static BaseEntity getBaseEntity(){

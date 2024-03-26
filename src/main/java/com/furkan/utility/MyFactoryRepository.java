@@ -1,4 +1,4 @@
-package com.ugur.utility;
+package com.furkan.utility;
 
 import org.hibernate.Session;
 import org.hibernate.Transaction;

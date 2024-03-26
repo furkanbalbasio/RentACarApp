@@ -1,11 +1,11 @@
-package com.ugur.controller;
+package com.furkan.controller;
 
-import com.ugur.repository.entity.Arac;
-import com.ugur.repository.entity.Kisi;
-import com.ugur.repository.enums.EMarka;
-import com.ugur.service.AracService;
-import com.ugur.utility.Constants;
-import com.ugur.utility.UtilityClass;
+import com.furkan.repository.entity.Arac;
+import com.furkan.repository.entity.Kisi;
+import com.furkan.repository.enums.EMarka;
+import com.furkan.service.AracService;
+import com.furkan.utility.Constants;
+import com.furkan.utility.UtilityClass;
 
 import java.util.Arrays;
 import java.util.List;

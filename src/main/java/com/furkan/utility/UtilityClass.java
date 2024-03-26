@@ -1,4 +1,4 @@
-package com.ugur.utility;
+package com.furkan.utility;
 
 import java.util.Scanner;
 

@@ -1,13 +1,12 @@
-package com.ugur;
+package com.furkan;
 
-import com.ugur.controller.AracController;
-import com.ugur.controller.KiralamaController;
-import com.ugur.controller.KisiController;
-import com.ugur.repository.entity.Kisi;
-import com.ugur.utility.DataGenerator;
-import com.ugur.utility.UtilityClass;
+import com.furkan.controller.AracController;
+import com.furkan.controller.KiralamaController;
+import com.furkan.controller.KisiController;
+import com.furkan.repository.entity.Kisi;
+import com.furkan.utility.DataGenerator;
+import com.furkan.utility.UtilityClass;
 
-import javax.xml.crypto.Data;
 import java.util.List;
 import java.util.Optional;
 import java.util.stream.Collectors;

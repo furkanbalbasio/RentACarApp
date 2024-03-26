@@ -1,9 +1,9 @@
-package com.ugur.controller;
+package com.furkan.controller;
 
-import com.ugur.repository.entity.Kisi;
-import com.ugur.service.KisiService;
-import com.ugur.utility.Constants;
-import com.ugur.utility.UtilityClass;
+import com.furkan.repository.entity.Kisi;
+import com.furkan.service.KisiService;
+import com.furkan.utility.Constants;
+import com.furkan.utility.UtilityClass;
 
 import java.util.List;
 import java.util.Optional;

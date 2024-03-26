@@ -1,8 +1,8 @@
-package com.ugur.service;
+package com.furkan.service;
 
-import com.ugur.repository.AracRepository;
-import com.ugur.repository.entity.Arac;
-import com.ugur.utility.MyFactoryService;
+import com.furkan.repository.AracRepository;
+import com.furkan.repository.entity.Arac;
+import com.furkan.utility.MyFactoryService;
 
 import java.util.List;
 

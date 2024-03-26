@@ -1,10 +1,10 @@
-package com.ugur.utility;
+package com.furkan.utility;
 
-import com.ugur.controller.AdminController;
-import com.ugur.controller.AracController;
-import com.ugur.repository.entity.Admin;
-import com.ugur.repository.entity.Arac;
-import com.ugur.repository.enums.EMarka;
+import com.furkan.controller.AdminController;
+import com.furkan.controller.AracController;
+import com.furkan.repository.entity.Admin;
+import com.furkan.repository.entity.Arac;
+import com.furkan.repository.enums.EMarka;
 
 import java.util.List;
 

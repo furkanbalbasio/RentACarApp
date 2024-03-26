@@ -1,7 +1,7 @@
-package com.ugur.controller;
+package com.furkan.controller;
 
-import com.ugur.repository.entity.Admin;
-import com.ugur.service.AdminService;
+import com.furkan.repository.entity.Admin;
+import com.furkan.service.AdminService;
 
 public class AdminController {
 

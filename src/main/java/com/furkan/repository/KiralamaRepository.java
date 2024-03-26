@@ -1,10 +1,10 @@
-package com.ugur.repository;
+package com.furkan.repository;
 
-import com.ugur.repository.entity.Kiralama;
-import com.ugur.repository.views.KiralamaSayisi;
-import com.ugur.repository.views.KiralananAraclar;
-import com.ugur.utility.HibernateUtility;
-import com.ugur.utility.MyFactoryRepository;
+import com.furkan.repository.entity.Kiralama;
+import com.furkan.repository.views.KiralamaSayisi;
+import com.furkan.repository.views.KiralananAraclar;
+import com.furkan.utility.HibernateUtility;
+import com.furkan.utility.MyFactoryRepository;
 
 import javax.persistence.EntityManager;
 import javax.persistence.Query;

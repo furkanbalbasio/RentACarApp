@@ -1,8 +1,8 @@
-package com.ugur.repository;
+package com.furkan.repository;
 
-import com.ugur.repository.entity.Kisi;
-import com.ugur.utility.HibernateUtility;
-import com.ugur.utility.MyFactoryRepository;
+import com.furkan.repository.entity.Kisi;
+import com.furkan.utility.HibernateUtility;
+import com.furkan.utility.MyFactoryRepository;
 
 import javax.persistence.EntityManager;
 import javax.persistence.Query;

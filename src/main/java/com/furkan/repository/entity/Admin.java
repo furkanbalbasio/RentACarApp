@@ -1,4 +1,4 @@
-package com.ugur.repository.entity;
+package com.furkan.repository.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

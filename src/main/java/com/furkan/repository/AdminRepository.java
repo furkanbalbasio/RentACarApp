@@ -1,7 +1,7 @@
-package com.ugur.repository;
+package com.furkan.repository;
 
-import com.ugur.repository.entity.Admin;
-import com.ugur.utility.MyFactoryRepository;
+import com.furkan.repository.entity.Admin;
+import com.furkan.utility.MyFactoryRepository;
 
 public class AdminRepository extends MyFactoryRepository<Admin,Long> {
     public AdminRepository() {

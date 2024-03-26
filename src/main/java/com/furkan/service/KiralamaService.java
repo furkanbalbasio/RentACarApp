@@ -1,10 +1,10 @@
-package com.ugur.service;
+package com.furkan.service;
 
-import com.ugur.repository.KiralamaRepository;
-import com.ugur.repository.entity.Kiralama;
-import com.ugur.repository.views.KiralamaSayisi;
-import com.ugur.repository.views.KiralananAraclar;
-import com.ugur.utility.MyFactoryService;
+import com.furkan.repository.KiralamaRepository;
+import com.furkan.repository.entity.Kiralama;
+import com.furkan.repository.views.KiralamaSayisi;
+import com.furkan.repository.views.KiralananAraclar;
+import com.furkan.utility.MyFactoryService;
 
 import java.util.List;
 

@@ -1,8 +1,8 @@
-package com.ugur.service;
+package com.furkan.service;
 
-import com.ugur.repository.KisiRepository;
-import com.ugur.repository.entity.Kisi;
-import com.ugur.utility.MyFactoryService;
+import com.furkan.repository.KisiRepository;
+import com.furkan.repository.entity.Kisi;
+import com.furkan.utility.MyFactoryService;
 
 import java.util.Optional;
 

@@ -1,6 +1,6 @@
-package com.ugur.repository.entity;
+package com.furkan.repository.entity;
 
-import com.ugur.repository.enums.EMarka;
+import com.furkan.repository.enums.EMarka;
 import lombok.*;
 
 import javax.persistence.*;

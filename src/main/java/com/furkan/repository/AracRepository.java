@@ -1,8 +1,8 @@
-package com.ugur.repository;
+package com.furkan.repository;
 
-import com.ugur.repository.entity.Arac;
-import com.ugur.utility.HibernateUtility;
-import com.ugur.utility.MyFactoryRepository;
+import com.furkan.repository.entity.Arac;
+import com.furkan.utility.HibernateUtility;
+import com.furkan.utility.MyFactoryRepository;
 
 import javax.persistence.Query;
 import javax.persistence.EntityManager;
